@@ -1,0 +1,35 @@
+html {
+
+    background-color: rgb(186, 186, 203);
+}
+
+h1 {
+    text-align: center;
+    color: #1c0fd1;
+}
+
+p {
+
+    font-family: 'Verdana';
+    font-size: 21px;
+}
+
+p {
+    text-align: center
+}
+
+a {
+    text-align: center;
+    font-family: 'Verdana';
+    font-size: 30px;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center
+}
